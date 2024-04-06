@@ -49,7 +49,7 @@
 - <a name="todo"></a> FoodLogoDet-1500: A Dataset for Large-Scale Food Logo Detection via Multi-Scale Feature Decoupling Network (**ACMMM 2021**) [paper]
 - <a name="todo"></a> RecipeLog: Recipe Authoring App for Accurate Food Recording (**ACMMM 2021**) [paper]
 ### 2020
-- <a name="todo"></a> Personal Food Model (ACMMM 2020) [paper]
+- <a name="todo"></a> Personal Food Model (**ACMMM 2020**) [paper]
 - <a name="todo"></a> ISIA Food-500: A Dataset for Large-Scale Food Recognition via Stacked Global-Local Attention Network (**ACMMM 2020**) [paper]
 - <a name="todo"></a> Cross-domain Cross-modal Food Transfer (**ACMMM 2020**) [paper]
 - <a name="todo"></a> Multi-modal Cooking Workflow Construction for Food Recipes (**ACMMM 2020**) [paper]
