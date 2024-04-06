@@ -25,7 +25,7 @@
 ### 2024
 - <a name="todo"></a> Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation (**CVPR2024**)[[paper](https://arxiv.org/abs/2404.00417)][[code](https://github.com/AnAppleCore/MOSE)]
 ### 2024
-- <a name="todo"></a> OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation (CVPR 2024) [paper not available yet]
+- <a name="todo"></a> OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation (**CVPR 2024**) [paper not available yet]
 - <a name="todo"></a> FIRE: Food Image to REcipe Generation (WACV 2024) [paper]
 - <a name="todo"></a> Online Class-Incremental Learning for Real-World Food Image Classification (WACV 2024) [paper]
 ### 2023
