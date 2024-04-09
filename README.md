@@ -56,11 +56,8 @@
 - <a name="todo"></a> Weakly-Supervised Plate And Food Region Segmentation (**ICME 2020**) [[paper](https://ieeexplore.ieee.org/document/9102748)]
 
 ## Workshops
-#### [4th Lifelong Learning Workshop at ICML 2020](https://lifelongml.github.io/)
-
-
-## Challenges or Competitions
-#### [1st Lifelong Learning for Machine Translation Shared Task at WMT20 (EMNLP 2020)](http://www.statmt.org/wmt20/lifelong-learning-task.html)
+#### [Large-Scale Fine-Grained Food Analysis at ICCV 2021](https://foodai-workshop.meituan.com/foodai2021.html#index)
+#### [MetaFood Workshop at CVPR 2024](https://sites.google.com/view/cvpr-metafood-2024)
 
 ## Please feel free to contact me if you find any interesting paper that is missing here.
 
