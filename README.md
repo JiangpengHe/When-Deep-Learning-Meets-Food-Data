@@ -1,7 +1,7 @@
 # When Deep Learning Meets Food Data
 ## Journal
 ## IEEE Transactions on Image Processing (TIP)
-- <a name="todo"></a> Convolution-Enhanced Bi-Branch Adaptive Transformer with Cross-Task Interaction for Food Category and Ingredient Recognition (TIP 2024) [paper]
+- <a name="todo"></a> Convolution-Enhanced Bi-Branch Adaptive Transformer with Cross-Task Interaction for Food Category and Ingredient Recognition (TIP 2024) [[paper](https://ieeexplore.ieee.org/abstract/document/10471331)]
 - <a name="todo"></a> Synthesizing Knowledge-enhanced Features for Real-world Zero-shot Food Detection (TIP 2024) [paper]
 - <a name="todo"></a> Ingredient-Guided Region Discovery and Relationship Modeling for Food Category-Ingredient Prediction (TIP 2022) [paper]
 - <a name="todo"></a> A Study of Multi-Task and Region-Wise Deep Learning for Food Ingredient Recognition (TIP 2021) [paper]
