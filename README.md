@@ -2,10 +2,10 @@
 ## Journal
 ## IEEE Transactions on Image Processing (TIP)
 - <a name="todo"></a> Convolution-Enhanced Bi-Branch Adaptive Transformer with Cross-Task Interaction for Food Category and Ingredient Recognition (TIP 2024) [[paper](https://ieeexplore.ieee.org/abstract/document/10471331)]
-- <a name="todo"></a> Synthesizing Knowledge-enhanced Features for Real-world Zero-shot Food Detection (TIP 2024) [paper]
-- <a name="todo"></a> Ingredient-Guided Region Discovery and Relationship Modeling for Food Category-Ingredient Prediction (TIP 2022) [paper]
-- <a name="todo"></a> A Study of Multi-Task and Region-Wise Deep Learning for Food Ingredient Recognition (TIP 2021) [paper]
-- <a name="todo"></a> Multi-Scale Multi-View Deep Feature Aggregation for Food Recognition (TIP 2020) [paper]
+- <a name="todo"></a> Synthesizing Knowledge-enhanced Features for Real-world Zero-shot Food Detection (TIP 2024) [[paper](https://ieeexplore.ieee.org/abstract/document/10423421)]
+- <a name="todo"></a> Ingredient-Guided Region Discovery and Relationship Modeling for Food Category-Ingredient Prediction (TIP 2022) [[paper](https://ieeexplore.ieee.org/document/9846887)]
+- <a name="todo"></a> A Study of Multi-Task and Region-Wise Deep Learning for Food Ingredient Recognition (TIP 2021) [[paper](https://ieeexplore.ieee.org/document/9305995)]
+- <a name="todo"></a> Multi-Scale Multi-View Deep Feature Aggregation for Food Recognition (TIP 2020) [[paper](https://ieeexplore.ieee.org/document/8779586)]
 ## IEEE Transactions on Multimedia (TMM)
 - <a name="todo"></a> From Canteen Food to Daily Meals: Generalizing Food Recognition to More Practical Scenarios (TMM 2024) [paper]
 - <a name="todo"></a> Coarse-to-Fine Nutrition Prediction (TMM 2024) [paper]
