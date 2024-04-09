@@ -1,5 +1,7 @@
 # When Deep Learning Meets Food Data
 ## Journal
+## IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- <a name="todo"></a> Large Scale Visual Food Recognition (TPAMI 2023) [[paper](https://ieeexplore.ieee.org/document/10019590)]
 ## IEEE Transactions on Image Processing (TIP)
 - <a name="todo"></a> Convolution-Enhanced Bi-Branch Adaptive Transformer with Cross-Task Interaction for Food Category and Ingredient Recognition (TIP 2024) [[paper](https://ieeexplore.ieee.org/abstract/document/10471331)]
 - <a name="todo"></a> Synthesizing Knowledge-enhanced Features for Real-world Zero-shot Food Detection (TIP 2024) [[paper](https://ieeexplore.ieee.org/abstract/document/10423421)]
