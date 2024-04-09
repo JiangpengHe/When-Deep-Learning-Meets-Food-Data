@@ -24,11 +24,9 @@
 ## Conference 
 
 ### 2024
-- <a name="todo"></a> Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation (**CVPR2024**)[[paper](https://arxiv.org/abs/2404.00417)][[code](https://github.com/AnAppleCore/MOSE)]
-### 2024
-- <a name="todo"></a> OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation (**CVPR 2024**) [paper not available yet]
-- <a name="todo"></a> FIRE: Food Image to REcipe Generation (WACV 2024) [paper]
-- <a name="todo"></a> Online Class-Incremental Learning for Real-World Food Image Classification (**WACV 2024**) [paper]
+- <a name="todo"></a> OVFoodSeg: Elevating Open-Vocabulary Food Image Segmentation via Image-Informed Textual Representation (**CVPR 2024**) [[paper](https://arxiv.org/abs/2404.01409)]
+- <a name="todo"></a> FIRE: Food Image to REcipe Generation (WACV 2024) [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Chhikara_FIRE_Food_Image_to_REcipe_Generation_WACV_2024_paper.html)]
+- <a name="todo"></a> Online Class-Incremental Learning for Real-World Food Image Classification (**WACV 2024**) [[paper](https://arxiv.org/abs/2301.05246)]
 ### 2023
 - <a name="todo"></a> Food-500 Cap: A Fine-Grained Food Caption Benchmark for Evaluating Vision-Language Models (**ACMMM 2023**) [paper]
 - <a name="todo"></a> SeeDS: Semantic Separable Diffusion Synthesizer for Zero-shot Food Detection (**ACMMM 2023**) [paper]
